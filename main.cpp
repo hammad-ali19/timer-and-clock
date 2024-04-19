@@ -72,4 +72,5 @@ int main()
         default:
             std::cout << "Invalid choice! ";
     }
+    return 0;
 }
